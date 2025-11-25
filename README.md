@@ -32,3 +32,8 @@ Get Brian's free resources on building with AI:
 
 Join [Builder Methods Pro](https://buildermethods.com/pro) for official support and connect with our community of AI-first builders:
 
+-
+
+## Preview Erin front-end attempts
+
+This repo contains a dark-mode Erin front-end scaffold with dashboards, the intake wizard, blueprint/backlog/architecture views, and an agents console. To run and preview each screen locally, follow the steps in [`docs/preview-guide.md`](docs/preview-guide.md).
